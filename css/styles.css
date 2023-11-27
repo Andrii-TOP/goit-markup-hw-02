@@ -19,7 +19,6 @@ img {
   object-fit: cover;
 }
 
-/* Typography */
 h1,
 h2,
 h3 {
@@ -68,7 +67,6 @@ p {
   color: #4d5ae5;
 }
 
-/* Header section */
 
 .header {
   background-color: #fff;
@@ -98,7 +96,6 @@ p {
   color: #434455;
 }
 
-/* Hero section */
 .hero {
   background-color: #2e2f42;
   text-align: center;
